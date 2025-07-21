@@ -1,0 +1,52 @@
+.red-border{
+    border:2px solid red;
+    margin: 3px;
+}
+.flex{
+    display:flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+.items-center{
+    align-items:center;
+}
+.bg-black{
+    background:transparent;
+    backdrop-filter: blur(90px);
+    color:white;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-grey{
+      background:transparent;
+    backdrop-filter: blur(80px);
+}
+.rounded{
+    border-radius:15px;
+}
+.m-1{
+    margin: 9px;
+}
+.m-2{
+    margin-right: 10px;
+}
+.p-1{
+    padding: 10px;
+}
+.p-2{
+    padding: 20px 0;
+}
+.gold-border{
+    border:2px solid gold;
+    border-radius:30px;
+}
+
+
